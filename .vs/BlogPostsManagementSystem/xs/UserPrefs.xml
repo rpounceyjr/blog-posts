@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{089CBA3D-265B-4388-A1D9-F7B38F48B747}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlogPostsManagementSystem PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="GraphQL/BlogPostType.cs" Line="19" Column="1" />
+      <File FileName="GraphQL/Query.cs" Line="41" Column="1" />
+      <File FileName="GraphQL/Mutation.cs" Line="26" Column="10" />
+      <File FileName="GraphQL/Subscription.cs" Line="38" Column="1" />
+      <File FileName="GraphQL/AuthorType.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="25" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogPostsManagementSystem" expanded="True">
+            <Node name="BlogPostsManagementSystem" expanded="True">
+              <Node name="GraphQL" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
